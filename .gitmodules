@@ -1,0 +1,6 @@
+[submodule "ROS2_TFG"]
+	path = ROS2_TFG
+	url = https://github.com/pparrilla/ROS2_TFG
+[submodule "AgriCloud-IOT-Angular"]
+	path = AgriCloud-IOT-Angular
+	url = https://github.com/pparrilla/AgriCloud-IOT-Angular
