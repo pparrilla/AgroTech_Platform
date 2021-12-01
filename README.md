@@ -3,6 +3,11 @@
 En mi Trabajo Final de Grado se ha planteado una plataforma que utiliza diferentes tecnologías
 para el sector agrícola.
 
+Para visualizar las diapositivas sobre el trabajo y la memoria dejo los enlaces aqui:
+
+- [Slides](./doc/Slides-AgroTech.pdf)
+- [Memoria](./doc/Memoria_AgroTech.pdf)
+
 En este caso se plantea un escenario con diferentes sensores para recolertar información, actuadores (ventanas, calefactores,...)
 para según los datos recibidos, realizar una accion u otra. Además estos datos son almacenados en una base de datos y procesados para
 mostrarse en una interfaz realizada en Angular.
